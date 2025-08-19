@@ -1,0 +1,45 @@
+12:54:11.702 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+12:54:12.004 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+12:54:20.903 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+12:54:20.928 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+12:54:37.835 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+12:54:37.944 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+12:55:21.265 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+12:56:17.482 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+12:57:54.801 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+12:57:55.088 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+12:57:56.477 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+12:57:56.483 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+12:58:01.055 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+12:58:01.124 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+12:58:09.267 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+12:58:15.946 [main] INFO  testCasses.TC_LoginTest - ********----Ending of TC_LoginTest---********
+14:36:16.628 [TestNG-tests-2] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:11:56.808 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:12:06.017 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+16:13:29.495 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:13:35.891 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+16:18:58.095 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:19:06.193 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+16:19:13.829 [main] INFO  testCasses.TC_LoginTest - ********----Ending of TC_LoginTest---********
+16:19:54.956 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:19:55.165 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+16:19:55.969 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+16:19:56.003 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+16:19:58.356 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+16:19:58.572 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+16:20:05.621 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+16:21:12.457 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:21:12.616 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+16:21:13.230 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+16:21:13.231 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+16:21:15.184 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+16:21:15.272 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+16:21:20.343 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+16:21:51.914 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+16:22:02.097 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:22:33.873 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+16:22:39.021 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+16:22:39.186 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+16:22:39.902 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+16:22:39.905 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******

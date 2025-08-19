@@ -1,0 +1,43 @@
+11:01:29.745 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+11:02:58.760 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+11:02:58.830 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+11:02:59.348 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+11:02:59.350 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+11:02:59.799 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+11:03:00.576 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+11:04:19.289 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+11:07:53.419 [TestNG-tests-1] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+11:07:53.522 [TestNG-tests-1] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+11:07:54.133 [TestNG-tests-1] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+11:07:54.135 [TestNG-tests-1] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+11:07:57.767 [TestNG-tests-2] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+11:08:04.604 [TestNG-tests-2] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+11:08:08.730 [TestNG-tests-2] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+11:08:08.730 [TestNG-tests-2] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+11:08:12.275 [TestNG-tests-2] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+11:08:12.423 [TestNG-tests-2] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+11:08:12.930 [TestNG-tests-1] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+11:08:13.034 [TestNG-tests-1] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+11:29:47.857 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+11:29:47.968 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+11:29:48.578 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+11:29:48.579 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+11:29:49.310 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+11:29:50.114 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+13:06:01.553 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+13:06:01.915 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+13:06:03.139 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+13:06:03.148 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+13:06:05.068 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+13:06:05.148 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+13:06:41.896 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+13:06:55.411 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+13:07:12.221 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Starting TC_AccountResgitionTest---*******
+13:07:12.328 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Myaccount---*******
+13:07:13.175 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Clicked Register Link---*******
+13:07:13.183 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Start providing customer details---*******
+13:07:14.809 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Validating msg Confirmation---*******
+13:07:14.856 [main] INFO  testCasses.TC_AccountResgistionTest - *********---Ending of TC_AccountResgitionTest---*******
+13:16:00.584 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+13:16:12.760 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
+13:16:39.631 [main] INFO  testCasses.TC_LoginTest - ********----Staring of TC_LoginTest---********
