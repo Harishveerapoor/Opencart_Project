@@ -24,18 +24,22 @@ jobs:
           java-version: '17'
           cache: maven
 
-      # Step 3: Run Maven Tests (your master.xml suite)
-      - name: Run TestNG Tests
-        run: mvn clean test -Dsurefire.suiteXmlFiles=master.xml
+      # Step 3: Install Xvfb (virtual display for browsers)
+      - name: Install Xvfb
+        run: sudo apt-get install -y xvfb
 
-      # Step 4: Upload Surefire Reports (TestNG Results)
+      # Step 4: Run Maven Tests (your master.xml suite) with Xvfb
+      - name: Run TestNG Tests with Xvfb
+        run: xvfb-run --auto-servernum --server-args="-screen 0 1920x1080x24" mvn clean test -Dsurefire.suiteXmlFiles=master.xml
+
+      # Step 5: Upload Surefire Reports (TestNG Results)
       - name: Upload Surefire Report
         uses: actions/upload-artifact@v4
         with:
           name: surefire-report
           path: target/surefire-reports/
 
-      # Step 5: Upload Allure Results (if generated)
+      # Step 6: Upload Allure Results (if generated)
       - name: Upload Allure Results
         if: always()
         uses: actions/upload-artifact@v4
@@ -43,10 +47,11 @@ jobs:
           name: allure-results
           path: target/allure-results/
 
-      # Step 6: Upload Extent Report
+      # Step 7: Upload Extent Report
       - name: Upload Extent Report
         if: always()
         uses: actions/upload-artifact@v4
         with:
           name: extent-report
           path: reports/
+
